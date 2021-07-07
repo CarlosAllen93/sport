@@ -1,6 +1,13 @@
 # sport
 
 
+
+
+
+(I'll leave the word "sport" because that's what I wrote in 2017 :)  )
+
+
+
 At this time I started studying programming, but never used my projects on GitHub //
 En este momento comencé a estudiar programación, pero nunca usé mis proyectos en GitHub.. (( year 2017 ))
 learning HTML etc..
